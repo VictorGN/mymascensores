@@ -42,7 +42,7 @@
 								<ul class="dropdown-menu" role="menu">
 									<li><a href="#">Catalogo 1</a></li>
 									<li><a href="#">Catalogo 2</a></li>
-									<li><a href="#">PATRICIA</a></li>
+									<li><a href="#">PATRICIA FINALIZADO..!!</a></li>
 									<li><a href="#">VICTOR Desarrollo FINALIZADO... !!!</a></li>
 								</ul>
 							</li>
